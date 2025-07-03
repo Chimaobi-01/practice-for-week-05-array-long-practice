@@ -94,6 +94,5 @@ describe ('Array practice', function () {
 
   });
 
-
 });
 
